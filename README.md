@@ -124,7 +124,3 @@ This analysis can be used for:
 - Risk-free rate of 6% assumed for Sharpe ratio calculation
 - Market regimes classified using 90-day rolling returns
 - All calculations performed on adjusted closing prices
-
-## 📄 License
-
-This project is provided for educational and research purposes.
