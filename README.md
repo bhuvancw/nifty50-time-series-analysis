@@ -1,4 +1,4 @@
-# nifty50-time-series-analysis# NIFTY 50 Time-Series Analysis
+# NIFTY 50 Time-Series Analysis
 
 A comprehensive quantitative analysis of the NIFTY 50 Indian stock index spanning 10 years (2016-2026). This project explores key financial metrics including returns distribution, volatility dynamics, drawdown analysis, and market regime identification.
 
